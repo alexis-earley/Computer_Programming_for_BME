@@ -7,4 +7,4 @@ Major concepts that were reinforced in this project were:
 - How to implement various mathematical concepts in MATLAB, such as the trapezoidal rule.
 - How to do various types of graphing, such as creating histograms, in MATLAB.
 
-In addition to my code, the project instructions and data are included.
+In addition to my code, the project instructions and given data are included.
