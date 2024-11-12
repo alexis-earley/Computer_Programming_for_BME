@@ -9,4 +9,4 @@ Major concepts that were reinforced in this project were:
 
 In addition to my code, the project instructions and given data are included.
 
-Final score: 100%
+Final score: 100%.
